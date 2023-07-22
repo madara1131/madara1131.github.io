@@ -1,0 +1,30 @@
+.container{
+    margin-top: 210px;
+    width: 300px;
+    text-align: center;
+    padding: auto;
+    background: rgba(80, 80, 80, 0.20);
+    border-radius: 20px;
+}
+body{
+    background-color:blanchedalmond
+}
+.Usuarioo{
+    font-size: medium;
+    font-family:monospace;
+    color: rgb(46, 43, 43);
+}
+.Contraseñaa{
+    font-size: medium;
+    font-family:monospace;
+    color: rgb(45, 43, 42);
+}
+h6{
+    color: rgb(11, 6, 1);
+    font-family:fantasy;
+    font-size: 23px;
+}
+.btn{
+    font-family:fantasy;
+    color: rgb(8, 8, 71);
+}
